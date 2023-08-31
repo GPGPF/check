@@ -193,6 +193,9 @@
         /* height: 80vh; */
         padding: 10px 13px;
     }
+    body .tooltip {
+        display: none;
+    }
     body .first .content{
         flex-direction: column-reverse;
         justify-content: center;
@@ -280,6 +283,9 @@
     body .first .left{
         /* height: 80vh; */
         padding: 10px 12px;
+    }
+    body .tooltip {
+        display: none;
     }
     body .first .content{
         flex-direction: column-reverse;
